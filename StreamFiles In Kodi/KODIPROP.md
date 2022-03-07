@@ -13,7 +13,7 @@ https:// xxxxx .mpd  .m3u8
 
 where they to put strm file
 
-https://github.com/Sphinxroot/IPTVM3U/blob/master/StreamFiles%20In%20Kodi/Path.txt
+https://raw.githubusercontent.com/Sphinxroot/KODIPROP/main/StreamFiles%20In%20Kodi/Path.txt
 
 
 you can use in a folder named as the channel , it can be managed in many form , depending  on how you want them sorted
